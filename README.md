@@ -26,3 +26,18 @@
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ricardo-muraoka-63623532/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+
+<div>
+  <h1> Portfolio adicionados ou atualizados recentemente</h1>
+</div>
+  <a href="https://github.com/ricardomuraoka/pandas-covid/">Projeto análise de dados utilizando Python</a>
+</div>
+<div>
+  <a href="https://github.com/ricardomuraoka/Projeto-PUC-machine-learning">Projeto realizado para faculdade com técnicas de machine learning</a>
+</div>
+<div>
+  <a href="https://github.com/ricardomuraoka/hadoop-pyspark-gcp">Resultado de projeto executando um job pyspark no ecosistema HADOOP dentro de um ambiente gerenciado GCP</a>
+</div>
+<div>
+  <a href="https://github.com/ricardomuraoka/aws-dio">Resultado de projeto executando um job MapReduce utilizando nuvem AWS (EMR + S3) / Pendente de alguns ajustes para completar o JOB </a>
+</div>
