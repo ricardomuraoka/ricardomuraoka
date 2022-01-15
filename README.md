@@ -30,8 +30,10 @@
 <div>
   <h1> Portfolio adicionados ou atualizados recentemente</h1>
 </div>
+<div>
   <a href="https://github.com/ricardomuraoka/pandas-covid/">Projeto análise de dados utilizando Python</a>
-</div>
+  </div>
+<div>
   <a href="https://github.com/ricardomuraoka/desafio-dio-banco-digital">Projeto DIO Banco Digital</a>
 </div>
 <div>
