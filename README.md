@@ -34,7 +34,7 @@
   <a href="https://github.com/ricardomuraoka/pandas-covid/">Projeto análise de dados utilizando Python</a>
   </div>
 <div>
-  <a href="https://github.com/ricardomuraoka/desafio-dio-banco-digital">Projeto DIO Banco Digital</a>
+  <a href="https://github.com/ricardomuraoka/desafio-dio-banco-digital">Projeto DIO Banco Digital em Java</a>
 </div>
 <div>
   <a href="https://github.com/ricardomuraoka/Projeto-PUC-machine-learning">Projeto realizado para faculdade com técnicas de machine learning</a>
