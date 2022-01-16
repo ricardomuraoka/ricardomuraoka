@@ -26,6 +26,11 @@
   <a href="https://www.linkedin.com/in/ricardo-muraoka/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+  
+  ## Total de visitas no meu perfil <br>
+ <p align="center"> 
+   <img src="https://visitor-badge.glitch.me/badge?page_id=ricardomuraoka.visitor-badge" alt="visitor badge"/>
+ </p>
 
 <div>
   <h1> Portfolio adicionados ou atualizados recentemente</h1>
