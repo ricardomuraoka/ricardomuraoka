@@ -3,8 +3,8 @@
 
 <div>
   <a href="https://https://www.linkedin.com/in/ricardo-muraoka-63623532/">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardomuraoka&show_icons=true&theme=dark&include_all_commits=true" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardomuraoka&layout=compact&langs_count=100&theme=dark" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardomuraoka&show_icons=true&theme=dark&include_all_commits=true" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardomuraoka&layout=compact&langs_count=100&theme=dark" />
 </div>
   
  <div style="display: inline_block"><br>
