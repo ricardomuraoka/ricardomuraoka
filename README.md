@@ -17,6 +17,11 @@
   <img align="center" alt="Ric-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ric-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Ric-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" width="30" height="30"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL" width="30" height="30"/>
+  <img src="https://img.icons8.com/color/48/4a90e2/linux.png" alt="LINUX" title="LINUX" width="30" height="30"/>
+  <img src="https://img.icons8.com/color/48/4a90e2/java-coffee-cup-logo.png" alt="Java" title="Java" width="34" height="30"/>
+
 </div>
   
  ##
