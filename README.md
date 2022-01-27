@@ -1,4 +1,8 @@
-## Bem-vindos!
+## Bem-vindos!    
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=ricardomuraoka.visitor-badge" alt="visitor badge"/>
+</p>
 
 
 <div>
@@ -39,10 +43,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-ori
 
 </div>
 
-  ## Total de visitas no meu perfil <br>
- <p align="center">
-   <img src="https://visitor-badge.glitch.me/badge?page_id=ricardomuraoka.visitor-badge" alt="visitor badge"/>
- </p>
 
 <div>
   <h1> Portfolio adicionados ou atualizados recentemente</h1>
