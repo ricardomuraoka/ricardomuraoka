@@ -45,7 +45,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-ori
 
 
 <div>
-  <h1> Portfolio adicionados ou atualizados recentemente</h1>
+  <h1> Portfolio adicionados ou atualizados recentemente</h1>  
 </div>
 <div>
   <a href="https://github.com/ricardomuraoka/pandas-covid/">Projeto análise de dados utilizando Python</a>
