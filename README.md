@@ -11,7 +11,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardomuraoka&layout=compact&langs_count=100&theme=dark" />
 </div>
 
-### Conhecimentos e maiores interesses 😜
+### Conhecimentos e maiores interesses 😜  
 
  <div style="display: inline_block">
 <img align ="center" alt="Ric-vscode" height="35" width="40"  
