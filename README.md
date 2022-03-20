@@ -48,6 +48,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-ori
   <h1> Projetos adicionados ou atualizados recentemente</h1>  
 </div>
 <div>
+  <a href="https://github.com/tanurematheus/ProjetoTime17"> Projeto realizado após um treinamento de uma semana em Vue.js em equipe no Hackaton Decola Luna da Iteris com pessoas fantásticas e um excelente aprendizado em se usar o git colaborativamente, Obrigado a todos os envolvidos</a>
+    </div>    
+<div>
   <a href="https://github.com/ricardomuraoka/pandas-covid/">Projeto análise de dados utilizando Python</a>
   </div>
 <div>
