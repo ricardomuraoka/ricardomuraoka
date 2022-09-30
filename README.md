@@ -42,26 +42,3 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-ori
   <a href="https://www.linkedin.com/in/ricardo-muraoka/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 </div>
-
-
-<div>
-  <h1> Projetos adicionados ou atualizados recentemente</h1>  
-</div>
-<div>
-  <a href="https://github.com/tanurematheus/ProjetoTime17"> Projeto realizado após um treinamento de uma semana em Vue.js em equipe no Hackaton Decola Luna da Iteris com pessoas fantásticas e um excelente aprendizado em se usar o git colaborativamente, Obrigado a todos os envolvidos</a>
-    </div>    
-<div>
-  <a href="https://github.com/ricardomuraoka/pandas-covid/">Projeto análise de dados utilizando Python</a>
-  </div>
-<div>
-  <a href="https://github.com/ricardomuraoka/desafio-dio-banco-digital">Projeto DIO Banco Digital em Java</a>
-</div>
-<div>
-  <a href="https://github.com/ricardomuraoka/Projeto-PUC-machine-learning">Projeto realizado para faculdade com técnicas de machine learning</a>
-</div>
-<div>
-  <a href="https://github.com/ricardomuraoka/hadoop-pyspark-gcp">Resultado de projeto executando um job pyspark no ecosistema HADOOP dentro de um ambiente gerenciado GCP</a>
-</div>
-<div>
-  <a href="https://github.com/ricardomuraoka/aws-dio">Resultado de projeto executando um job MapReduce utilizando nuvem AWS (EMR + S3) / Pendente de alguns ajustes para completar o JOB </a>
-</div>
